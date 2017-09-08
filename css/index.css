@@ -1,0 +1,16 @@
+#mainframe { background: #f8d900; max-width: 7rem; height: 12rem; padding-top: 0.72rem; font-family: chenyanxin; }
+#mainframe .content { width: 5.5rem; height: 7.2rem; border: 5px solid #222; margin: 0 auto; border-radius: 30px; }
+#mainframe .content .title { width: 1.59rem; height: 0.31rem; font-size: 0.3rem; background: #222; color: #f8d900; border-radius: 15px; margin: 0.32rem auto; text-align: center; }
+#mainframe .content .name { font-size: 0.48rem; text-align: center; margin-top: 0.44rem; }
+#mainframe .content .number { text-align: center; }
+#mainframe .content .number .num { font-size: 1.12rem; font-weight: 900; }
+#mainframe .content .number .unit { font-size: 0.24rem; vertical-align: middle; }
+#mainframe .content .description { font-size: 0.34rem; line-height: 1.2; padding: 0.5rem 0.15rem; text-align: center; }
+#mainframe .content .qrcode { width: 1.5rem; height: 1.5rem; background: #fff; text-align: center; margin: 0 auto; }
+#mainframe .content .bottom { text-align: center; font-size: 0.24rem; margin-top: 0.23rem; }
+
+#mainframe .foot { margin-top: 0.8rem; text-align: center; }
+#mainframe #name { width: 4rem; height: 0.8rem; background: none; border: none; outline: none; border: 4px solid #000; border-radius: 9px; font-size: 24px; text-align: center; font-family: chenyanxin; box-sizing: border-box; }
+#mainframe #submit { width: 4rem; height: 0.72rem; background: #222; font-size: 0.36rem; text-align: center; line-height: 0.36rem; background: #222; outline: none; border: none; border-radius: 9px; margin-top: 0.33rem; font-family: chenyanxin; color: #fff; }
+#mainframe .author { width: 2.04rem; height: 0.22rem; font-size: 0.22rem; line-height: 1; background: #222; color: #f8d900; border-radius: 9px; text-align: center; margin: 0 auto; margin-top: 1rem; }
+#mainframe .pic { width: 0.46rem; height: 0.46rem; margin: 0 auto; background: #fff; margin-top: 0.1rem; }

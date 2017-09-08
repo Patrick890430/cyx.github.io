@@ -1,0 +1,10 @@
+#mainframe { background: #f8d900; max-width: 7rem; margin: 0 auto; height: 12rem; padding: 0.4rem 0.3rem 0.35rem 0.3rem; box-sizing: border-box; font-family: chenyanxin; }
+#mainframe .content { height: 9.8rem; border: 5px solid #222; border-radius: 5px; }
+#mainframe .content .title { width: 2.9rem; height: 0.6rem; margin: 0.48rem auto; font-size: 0.6rem; background: #000; color: #f8d900; border-radius: 29px; text-align: center; }
+#mainframe .content .name { text-align: center; font-size: 0.64rem; }
+#mainframe .content .number { text-align: center; }
+#mainframe .content .num { font-size: 1.5rem; font-weight: 900; }
+#mainframe .content .unit { font-size: 0.32rem; vertical-align: middle; }
+#mainframe .content .description { font-size: 0.38rem; margin-top: 0.15rem; padding: 0px 0.15rem; line-height: 1.2; text-align: center; }
+#mainframe .content .qrcode { text-align: center; margin: 0 auto; width: 1.45rem; height: 1.45rem; background: #fff; margin-top: 1.68rem; }
+#mainframe .content .bottom { text-align: center; margin-top: 0.15rem; font-size: 0.28rem; }
